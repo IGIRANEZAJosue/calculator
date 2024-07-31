@@ -1,0 +1,7 @@
+.operation {
+  @apply  bg-orange-400 border text-white 
+}
+
+.key {
+  @apply flex justify-center items-center border-gray-400 border size-20
+}
