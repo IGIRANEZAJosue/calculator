@@ -21,7 +21,7 @@ function App() {
             <button className="row-start-5 key">1</button>
             <button className="row-start-5 key">2</button>
             <button className="row-start-5 key">3</button>
-            <button className="col-span-2 key">0</button>
+            <button className="col-span-2">0</button>
             <button className="col-start-3 row-start-6 key">.</button>
             <button className="col-start-4 row-start-6 key operation">=</button>
          </div>
